@@ -59,8 +59,9 @@ The **SmartLamp** project allows you to control a lamp using a **Bluetooth HC-05
 
 ---
 
+## 📝 Example Output
 
-![Example Screenshot](https://github.com/user-attachments/assets/118490be-6e33-466d-a502-3b3ced9fc31f)
+![Example Video](https://github.com/user-attachments/assets/118490be-6e33-466d-a502-3b3ced9fc31f)
 
 ---
 
