@@ -1,5 +1,5 @@
 # 💡 SmartLamp – Bluetooth Lamp Control 
-(It's fun prodject +_+)
+
 
 The **SmartLamp** project allows you to control a lamp using a **Bluetooth HC-05 module** and an Arduino. It supports commands to turn the lamp ON, OFF, toggle its state, and check its current status.
 
