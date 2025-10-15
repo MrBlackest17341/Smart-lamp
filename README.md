@@ -56,7 +56,7 @@ To control the lamp via Bluetooth from your phone, install a Serial Bluetooth Te
 
 | HC-05 | Arduino |
 |-------|---------|
-| TX    | D10 (via voltage divider) |
+| TX    | D10 |
 | RX    | D11 |
 
 ### Relay:
