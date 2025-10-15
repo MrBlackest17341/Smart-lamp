@@ -75,6 +75,15 @@ To control the lamp via Bluetooth from your phone, install a Serial Bluetooth Te
 
 ---
 
+## 💻 Uploading the Sketch
+
+1. Connect the Arduino to your computer via USB.  
+2. Open the `Smart-lamp.ino` file in Arduino IDE.  
+3. Select the **correct board** and **port**.  
+4. Click **Upload**.  
+
+---
+
 ## 📡 Bluetooth Commands
 
 ### First, you need to do the following steps:
@@ -89,15 +98,6 @@ To control the lamp via Bluetooth from your phone, install a Serial Bluetooth Te
 | `OFF`     | Turns the lamp OFF                               |
 | `TOGGLE`  | Switches the lamp to the opposite state          |
 | `STATUS`  | Reports the current state of the lamp            |
-
----
-
-## 💻 Uploading the Sketch
-
-1. Connect the Arduino to your computer via USB.  
-2. Open the `Smart-lamp.ino` file in Arduino IDE.  
-3. Select the **correct board** and **port**.  
-4. Click **Upload**.  
 
 ---
 
